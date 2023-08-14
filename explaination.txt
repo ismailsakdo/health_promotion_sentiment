@@ -1,0 +1,3 @@
+manual.py = file for execute locally
+main.py = run the google sheet with ERROR of downloading the CSV and PNG
+new.py = display the result and interprete directly based on Google Sheet link
